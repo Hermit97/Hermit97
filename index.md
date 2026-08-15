@@ -12,6 +12,8 @@ layout: default
 * [OS_INTERNALS](./os-list.md)
 * [SECURITY_CERTS](./certs.md)
 
+<img src="./assets/images/dwight_laugh.PNG" alt="A detailed description of the image">
+
 <!-- ### // RESEARCH_LOG_STREAM
 
 <div style="height: 200px; overflow-y: scroll; border: 1px solid black; padding: 15px; background: #ffffff; font-family: monospace; font-size: 1.0em; color: black; line-height: 1.5;">
